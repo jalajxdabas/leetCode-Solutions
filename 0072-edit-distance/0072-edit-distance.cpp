@@ -51,6 +51,7 @@ public:
         for(int j=0; j<=m; j++) prev[j] = j;
 
         for(int i=1; i<=n; i++){
+            curr[0] = i;
             for(int j=1; j<=m; j++){
                 
                 if(s1[i-1] == s2[j-1]){
@@ -73,7 +74,9 @@ public:
         // vector<vector<int>> dp(n, vector<int> (m, -1));
         // return memo(n-1, m-1, word1, word2, dp);
 
-        return tab(n, m ,word1, word2);
+        // return tab(n, m ,word1, word2);
+
+        return space(n, m, word1, word2);
     }
 
 };
