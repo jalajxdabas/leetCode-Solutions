@@ -73,7 +73,9 @@ public:
         // vector<vector<int>> dp(n, vector<int>(2, -1));
         // return memo(0, 1, prices, dp);
 
-        return tab(prices);
+        // return tab(prices);
+
+        return space(prices);
     }
 
 };
