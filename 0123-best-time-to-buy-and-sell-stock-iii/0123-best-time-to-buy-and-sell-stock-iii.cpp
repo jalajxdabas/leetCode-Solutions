@@ -54,8 +54,28 @@ public:
             }
         }
         return dp[0][1][2];
+    }
 
-        
+    int space(vector<int> &prices){
+        int n = prices.size();
+        vector<vector<int>> next(2, vector<int>(3, 0)), curr(2, vector<int>(3, 0));
+
+        for(int i=n-1; i>=0; i--){
+            for(int buy=0; buy<2; buy++){
+                for(int cap=1; cap<3; cap++){
+                    int profit = 0;
+                    if(buy){
+                        profit = max(next[1][cap], (-prices[i] + next[0][cap]));
+                    }
+                    else{
+                        profit = max(next[0][cap], (+prices[i]+next[1][cap-1]));
+                    }
+                    curr[buy][cap] = profit;
+                }
+                next = curr;
+            }
+        }
+        return next[1][2];
     }
     int maxProfit(vector<int>& prices) {
         // return recur(0, 1, 2, prices);
@@ -63,6 +83,7 @@ public:
         // vector<vector<vector<int>>> dp(n, vector<vector<int>>(2, vector<int>(3, -1)));
         // return memo(0, 1, 2, prices, dp);
 
-        return tab(prices);
+        // return tab(prices);
+        return space(prices);
     }
 };
