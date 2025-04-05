@@ -59,6 +59,47 @@ public:
 
     }
 
+    bool space(string text, string pattern) {
+        int n1 = text.size();
+        int n2 = pattern.size();
+        vector<bool> prev(n2 + 1, false), curr(n2 + 1, false);
+        prev[0] = true;
+
+        for (int j = 1; j <= n2; j++) {
+            if (pattern[j - 1] == '*') {
+                prev[j] = prev[j - 1];
+            }
+        }
+
+        if (n2 == 0 && n1 > 0) {
+            return false;
+        }
+
+        for (int i = 1; i <= n1; i++) {
+            bool flag = true;
+            for (int j = 1; j <= n2; j++) {
+                if (pattern[j - 1] != '*') {
+                    flag = false;
+                    break;
+                }
+            }
+            curr[0] = flag;
+            for (int j = 1; j <= n2; j++) {
+                if (text[i - 1] == pattern[j - 1] || pattern[j - 1] == '?') {
+                    curr[j] = prev[j - 1];
+                } else if (pattern[j - 1] == '*') {
+                    curr[j] = prev[j] || curr[j - 1];
+                } else {
+                    curr[j] = false;
+                }
+            }
+            prev = curr;
+        }
+
+        return prev[n2];
+    }
+
+
     bool isMatch(string s, string p) {
        int n = s.size();
        int m = p.size();
@@ -66,6 +107,7 @@ public:
     //    return recur(m-1, n-1, p, s);
     // vector<vector<int>> dp(m, vector<int> (n, -1));
     // return memo(m-1, n-1, p, s, dp);
-    return tab(m, n, p, s);
+    // return tab(m, n, p, s);
+    return space(s, p);
     }
 };
