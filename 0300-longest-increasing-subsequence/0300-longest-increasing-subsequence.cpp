@@ -34,11 +34,28 @@ public:
         return dp[0][0];
     }
 
+    int tab2(vector<int> &nums){
+        int n = nums.size();
+        int ans = 0;
+
+        vector<int> dp(n, 1);
+        for(int i=0; i<n; i++){
+            for(int prev=0; prev<i; prev++){
+                if(nums[prev] < nums[i]) dp[i] = max(1+dp[prev], dp[i]);
+            }
+            ans = max(ans, dp[i]);
+        }
+        return ans;
+        
+    }
+
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
         // return recur(0, -1, nums);
         // vector<vector<int>> dp(n+1, vector<int>(n+1, -1));
         // return memo(0, -1, nums, dp);
-        return tab(nums);
+        // return tab(nums);
+
+        return tab2(nums);
     }
 };
