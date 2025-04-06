@@ -21,7 +21,7 @@ public:
 
     int tab(vector<int> &nums){
         int n = nums.size();
-        vector<vector<int>> dp(n+1, vector<int>(n, 0));
+        vector<vector<int>> dp(n+1, vector<int>(n+1, 0));
 
         for(int i=n-1; i>=0; i--){
             for(int prev = i-1; prev>=-1; prev--){
@@ -37,7 +37,8 @@ public:
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
         // return recur(0, -1, nums);
-        vector<vector<int>> dp(n+1, vector<int>(n+1, -1));
-        return memo(0, -1, nums, dp);
+        // vector<vector<int>> dp(n+1, vector<int>(n+1, -1));
+        // return memo(0, -1, nums, dp);
+        return tab(nums);
     }
 };
