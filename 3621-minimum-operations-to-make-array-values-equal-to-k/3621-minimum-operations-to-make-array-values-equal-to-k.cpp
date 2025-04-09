@@ -1,34 +1,16 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        int n = nums.size();
-        sort(nums.begin(), nums.end());
-        if(nums[0] < k) return -1;
-        else if(nums[0] == k){
-            int count = 0;
-            int temp = k;
-            for(int i=1; i<n; i++){
-                if(nums[i] == temp) continue;
-                else{
-                    temp = nums[i];
-                    count++;
-                }
-            }
-            return count;
+        unordered_map<int, int> mp;
+        int mini = 1e9;
+        for(auto i: nums){
+            mp[i] = 1;
+            mini = min(mini, i);
         }
-        else{
-            int count = 0;
-            int temp = nums[0];
-            for(int i=1; i<n; i++){
-                if(nums[i] == temp) continue;
-                else{
-                    temp = nums[i];
-                    count++;
-                }
-            }
-            return count+1;
-        }
+        if(mini < k) return -1;
+        int ans = mp.size();
+        if(mp[k]) ans--;
+        return ans;
 
-        
     }
 };
