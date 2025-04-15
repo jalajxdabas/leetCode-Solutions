@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2262-solving-questions-with-brainpower](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -174,4 +178,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
