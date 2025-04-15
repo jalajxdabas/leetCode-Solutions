@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
