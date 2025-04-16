@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2262-solving-questions-with-brainpower](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1129-longest-string-chain](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1129-longest-string-chain) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
