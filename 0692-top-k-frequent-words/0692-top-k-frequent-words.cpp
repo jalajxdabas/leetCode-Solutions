@@ -1,38 +1,26 @@
 class Solution {
 public:
     vector<string> topKFrequent(vector<string>& words, int k) {
-        int n = words.size();
-        sort(words.begin(), words.end());
 
         unordered_map<string, int> mp;
-        vector<string> ans;
-
-        for(string &s: words){
+        for(auto &s: words){
             mp[s]++;
         }
 
-        auto comp = [](pair<string, int> &a, pair<string, int> &b){
-            if(a.second != b.second){
-                return a.second < b.second;
+        vector<pair<string, int>> freq_vec(mp.begin(), mp.end());
+        sort(freq_vec.begin(), freq_vec.end(), [](const pair<string, int>& a, const pair<string, int>& b) {
+            if (a.second == b.second) {
+                return a.first < b.first;  // Lexicographical order if frequencies are the same
             }
-            return a.first > b.first;
-        };
+            return a.second > b.second;  // Higher frequency comes first
+        });
 
-        priority_queue<pair<string, int>, vector<pair<string, int>>, decltype(comp)> maxi(comp);
-
-        for(auto &i: mp){
-            maxi.push({i.first, i.second});
+        vector<string> result;
+        for (int i = 0; i < k; ++i) {
+            result.push_back(freq_vec[i].first);
         }
 
-        for(int i=0; i<k; i++){
-            pair<string, int> it = maxi.top();
-            maxi.pop();
-
-            ans.push_back(it.first);
-        }
-
-
-
-        return ans;
+        return result;
+        
     }
 };
