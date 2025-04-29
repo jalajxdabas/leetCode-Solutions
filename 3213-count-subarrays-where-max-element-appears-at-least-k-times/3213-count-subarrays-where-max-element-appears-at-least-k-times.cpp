@@ -6,21 +6,17 @@ public:
         int n = nums.size();
         long long ans = 0;
 
-        int i=0; 
-        int j=0;
-        int count = 0;
-        while(j < n){
-            if(nums[j] == maxi){
-                count++;
-            }
+        vector<int> maxIndex;
 
-            while(count >= k){
-                ans += (n-j);
-
-                if(nums[i] == maxi) count--;
-                i++;
+        for(int i=0; i<n; i++){
+            if(maxi == nums[i]){
+                maxIndex.push_back(i);
             }
-            j++;
+            int size = maxIndex.size();
+            if(size >= k){
+                int last_i = maxIndex[size-k];
+                ans += (last_i + 1);
+            }
         }
         return ans;
     }
