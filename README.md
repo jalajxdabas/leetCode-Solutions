@@ -312,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Depth-First Search
+|  |
+| ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
+## Graph
+|  |
+| ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
