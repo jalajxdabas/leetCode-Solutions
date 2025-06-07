@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1197-parsing-a-boolean-expression](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [3194-find-words-containing-character](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Recursion
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1197-parsing-a-boolean-expression](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Matrix
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Merge Sort
 |  |
 | ------- |
