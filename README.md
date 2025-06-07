@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [1129-longest-string-chain](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1129-longest-string-chain) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
