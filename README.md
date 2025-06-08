@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0945-snakes-and-ladders](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1072-next-greater-node-in-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1121-partition-array-for-maximum-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0143-reorder-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Matrix
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [1072-next-greater-node-in-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
+| [1072-next-greater-node-in-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
