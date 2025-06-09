@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
