@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0797-rabbits-in-forest](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0797-rabbits-in-forest) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Combinatorics
 |  |
