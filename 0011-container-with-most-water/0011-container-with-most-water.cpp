@@ -7,13 +7,13 @@ public:
 
         while(left < right){
             int h = min(height[left], height[right]);
-            int w = right-left;
-            int area = h*w;
-            ans = max(ans, area);
+            int b = right - left;
+            ans = max(ans, (h*b));
 
-            if(h == height[left]) left++;
+            if(height[left] < height[right]) left++;
             else right--;
         }
         return ans;
+
     }
 };
