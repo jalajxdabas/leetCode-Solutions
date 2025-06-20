@@ -8,10 +8,12 @@ public:
 
         if(sum > target || i >= nums.size()) return;
 
-        path.push_back(nums[i]);
-        solve(nums, ans, path, target, i, sum+nums[i]);
-        path.pop_back();
-        solve(nums, ans, path, target, i+1, sum);
+        for(int idx = i; idx<nums.size(); idx++){
+            path.push_back(nums[idx]);
+            solve(nums, ans, path, target, idx, sum+nums[idx]);
+            path.pop_back();
+
+        }
     }
     vector<vector<int>> combinationSum(vector<int>& nums, int target) {
         vector<vector<int>> ans;
