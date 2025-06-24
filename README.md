@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0189-rotate-array) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0137-single-number-ii) |
