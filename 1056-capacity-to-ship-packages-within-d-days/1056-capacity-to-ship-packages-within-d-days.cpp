@@ -1,41 +1,41 @@
 class Solution {
 public:
-    bool isPossible(vector<int> &weights, int days, int mid){
-        int count = 1;
-        int sum = 0;
-        for(int &i: weights){
-            if(sum + i > mid) {
-                count++;
-                sum = i;
-                if(count > days) return false;
-            }
-            else sum += i;
-
-        }
-        return true;
-    }
     int shipWithinDays(vector<int>& weights, int days) {
         int n = weights.size();
-        int mini = 0;
-        int maxi = 0;
-
-        for(int &i: weights){
-            mini = max(mini, i);
-            maxi += i;
-        }
+        int s = 0;
+        int e = 0;
         int ans = -1;
 
-        while(mini <= maxi){
-            int mid = mini + (maxi-mini)/2;
+        for(int &i: weights){
+            s = max(s, i);
+            e += i;
+        }
+
+        while(s <= e){
+            int mid = s + (e-s)/2;
+
             if(isPossible(weights, days, mid)){
                 ans = mid;
-                
-                maxi = mid-1;
+                e = mid-1;
             }
             else{
-                mini = mid+1;
+                s = mid+1;
             }
         }
         return ans;
+    }
+    bool isPossible(vector<int> &weights, int days, int mid){
+        int sum = 0;
+        int count = 1;
+
+        for(int &i: weights){
+            if(sum + i <= mid) sum += i;
+            else{
+                count++;
+                sum = i;
+            }
+        }
+        if(count <= days) return true;
+        return false;
     }
 };
