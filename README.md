@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Depth-First Search
 |  |
 | ------- |
