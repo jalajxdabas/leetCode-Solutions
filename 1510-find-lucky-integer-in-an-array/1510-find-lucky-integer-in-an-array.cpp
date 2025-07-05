@@ -1,20 +1,16 @@
 class Solution {
 public:
     int findLucky(vector<int>& arr) {
+        vector<int> freq(501, 0);
+
+        for(int &i: arr){
+            freq[i]++;
+        }
+
         int ans = -1;
-        sort(arr.begin(), arr.end());
-        int n = arr.size();
 
-        for(int i=0; i<n; i++){
-            int num = arr[i];
-            int count = 1;
-
-            while(i + 1 < n && arr[i + 1] == num){
-                count++;
-                i++;
-            }
-
-            if(count == num) ans = max(ans, num);
+        for(int i=1; i<=500; i++){
+            if(freq[i] == i) ans = max(ans, i);
         }
         return ans;
     }
