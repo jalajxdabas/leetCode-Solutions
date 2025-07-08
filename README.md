@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0224-basic-calculator](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0224-basic-calculator) |
 | [1197-parsing-a-boolean-expression](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0368-largest-divisible-subset](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0797-rabbits-in-forest](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0797-rabbits-in-forest) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0735-asteroid-collision) |
