@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0061-rotate-list) |
@@ -643,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0460-lfu-cache) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
