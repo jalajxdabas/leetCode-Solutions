@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Design
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
