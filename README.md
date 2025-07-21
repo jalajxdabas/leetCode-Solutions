@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1129-longest-string-chain](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1197-parsing-a-boolean-expression](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3194-find-words-containing-character) |
