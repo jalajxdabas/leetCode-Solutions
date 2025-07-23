@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1197-parsing-a-boolean-expression](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3194-find-words-containing-character) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Matrix
