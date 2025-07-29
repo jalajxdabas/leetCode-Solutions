@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1731-even-odd-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Design
 |  |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1731-even-odd-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1254-deepest-leaves-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1731-even-odd-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1731-even-odd-tree) |
 ## Union Find
 |  |
 | ------- |
