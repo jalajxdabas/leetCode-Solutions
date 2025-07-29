@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [1072-next-greater-node-in-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Design
 |  |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
