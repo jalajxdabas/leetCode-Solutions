@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
@@ -582,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
+| [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1008-binary-tree-cameras](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1008-binary-tree-cameras) |
@@ -646,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
+| [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1008-binary-tree-cameras](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1008-binary-tree-cameras) |
