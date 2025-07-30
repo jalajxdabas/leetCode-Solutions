@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1285-balance-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1285-balance-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1731-even-odd-tree) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1731-even-odd-tree) |
@@ -767,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
