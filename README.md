@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1129-longest-string-chain) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1731-even-odd-tree) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1731-even-odd-tree) |
@@ -773,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
