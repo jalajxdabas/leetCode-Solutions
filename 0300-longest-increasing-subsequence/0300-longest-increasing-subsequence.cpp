@@ -1,17 +1,63 @@
 class Solution {
 public:
-    
-    int lengthOfLIS(vector<int>& nums) {
-        vector<int> temp;
-        temp.push_back(nums[0]);
+    int recur(int i, int prev, vector<int> &nums, int n){
+        if(i == n) return 0;
 
-        for(int i=1; i<nums.size(); i++){
-            if(nums[i] > temp.back()) temp.push_back(nums[i]);
-            else{
-                int ind = (lower_bound(temp.begin(), temp.end(), nums[i]) - temp.begin());
-                temp[ind] = nums[i];
+        int notTake = recur(i+1, i, nums, n);
+        int take = 0;
+
+        if(prev == -1 || nums[i] > nums[prev]) take = 1 + recur(i+1, i, nums, n);
+
+
+        return max(take, notTake);
+    }
+
+    int memo(int i, int prev, vector<int> &nums, vector<vector<int>> &dp){
+        if(i == nums.size()) return 0;
+
+
+        if(dp[i][prev+1] != -1) return dp[i][prev+1];
+
+        int notTake = memo(i+1, i, nums, dp);
+        int take = 0;
+
+
+
+        if(prev == -1 || nums[i] > nums[prev]) take = 1 + memo(i+1, i, nums, dp);
+
+
+        return dp[i][prev+1] =  max(take, notTake);
+
+    }
+
+
+    int tab(vector<int> nums){
+        int n = nums.size();
+
+        vector<vector<int>> dp(n+1, vector<int>(n+1, 0));
+
+        for(int i=n-1; i>=0; i--){
+            for(int prev = i-1; prev>=-1; prev--){
+                int notTake = 0 + dp[i+1][prev+1];
+                int take = 0;
+                if(prev == -1 || nums[i] > nums[prev]) take = 1 + dp[i+1][i+1];
+                dp[i][prev+1] = max(take, notTake);
             }
         }
-        return temp.size();
+        return dp[0][0];
+
+    }
+
+
+    int lengthOfLIS(vector<int>& nums) {
+        int n = nums.size();
+
+        // return recur(0, -1, nums, n);
+
+        // vector<vector<int>> dp(n+1, vector<int>(n+1, -1));
+        // return memo(0, -1, nums, dp);
+
+        return tab(nums);
+
     }
 };
