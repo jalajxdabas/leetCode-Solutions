@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0189-rotate-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
