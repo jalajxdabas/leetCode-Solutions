@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0148-sort-list) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
