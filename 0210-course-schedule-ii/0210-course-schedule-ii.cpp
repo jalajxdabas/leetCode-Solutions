@@ -1,48 +1,36 @@
 class Solution {
 public:
-    bool dfs(int i, vector<int> &vis, vector<int> &path, stack<int> &st, vector<int> adj[]){
-        vis[i] = 1;
-        path[i] = 1;
-
-        for(auto &it: adj[i]){
-            if(!vis[it]){
-                (dfs(it, vis, path, st, adj));
-            }
-            else if(path[it]) return false;
-            else {continue;}
-        }
-
-        st.push(i);
-        path[i] = 0;
-        return true;
-
-    }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         int n = numCourses;
         vector<int> adj[n];
+        vector<int> indegree(n, 0);
+
         for(auto &i: prerequisites){
             adj[i[1]].push_back(i[0]);
+            indegree[i[0]]++;
         }
 
-        vector<int> vis(n, 0);
-        vector<int> path(n, 0);
-        stack<int> st;
+        queue<int> q;
         vector<int> ans;
 
         for(int i=0; i<n; i++){
-            if(!vis[i]){
-                if(!dfs(i, vis, path, st, adj)) return {};
-            }
+            if(indegree[i] == 0) q.push(i);
         }
 
-        while(!st.empty()){
-            ans.push_back(st.top());
-            st.pop();
+        while(!q.empty()){
+            int top = q.front();
+            q.pop();
+            ans.push_back(top);
+
+            for(auto &i: adj[top]){
+                if(--indegree[i] == 0) q.push(i);
+            }
         }
 
         if(ans.size() == n) return ans;
 
         return {};
+
 
     }
 };
