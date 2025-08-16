@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1078-remove-outermost-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1197-parsing-a-boolean-expression](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
