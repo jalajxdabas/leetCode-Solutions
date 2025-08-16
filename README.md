@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1285-balance-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1448-maximum-69-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
