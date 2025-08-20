@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0433-minimum-genetic-mutation](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0433-minimum-genetic-mutation](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -912,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
