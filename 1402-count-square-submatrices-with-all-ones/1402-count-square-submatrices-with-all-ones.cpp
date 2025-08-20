@@ -1,30 +1,57 @@
 class Solution {
 public:
-    int countSquares(vector<vector<int>>& arr) {
-        int n = arr.size();
-        int m = arr[0].size();
-        int ans = 0;
 
-        vector<vector<int>> dp(n, vector<int>(m, 0));
-        for(int i=0; i<n; i++){
-            dp[i][0] = arr[i][0];
-            ans += arr[i][0];
-        }
-        for(int j=1; j<m; j++) {
-            dp[0][j] = arr[0][j];
-            ans += arr[0][j];
-        }
+    int recur(int i, int j, vector<vector<int>> &matrix){
+        int m = matrix.size();
+        int n = matrix[0].size();
 
-        for(int i=1; i<n; i++){
-            for(int j=1; j<m; j++){
-                if(arr[i][j] == 0) dp[i][j] = 0;
-                else{
-                    dp[i][j] = min(dp[i-1][j], min(dp[i-1][j-1], dp[i][j-1])) + 1;
-                    ans+= dp[i][j];
-                }
+        if(i >= m || j >= n) return 0;
+
+        if(matrix[i][j] == 0) return 0;
+
+        int right = recur(i, j+1, matrix);
+        int down = recur(i+1, j, matrix);
+        int diag = recur(i+1, j+1, matrix);
+
+        return (1+ min(right, min(down, diag)));
+    }
+
+    int memo(int i, int j, vector<vector<int>> &matrix, vector<vector<int>> &dp){
+        int m = matrix.size();
+        int n = matrix[0].size();
+
+        if(i >= m || j >= n) return 0;
+
+        if(matrix[i][j] == 0) return dp[i][j] = 0;
+
+        if(dp[i][j] != -1) return dp[i][j];
+
+        int right = memo(i, j+1, matrix, dp);
+        int down = memo(i+1, j, matrix, dp);
+        int diag = memo(i+1, j+1, matrix, dp);
+
+        return dp[i][j] = (1+ min(right, min(down, diag)));
+    }
+
+
+
+    int countSquares(vector<vector<int>>& matrix) {
+        int m = matrix.size();
+        int n = matrix[0].size();
+        int result = 0;
+
+        vector<vector<int>> dp(m, vector<int>(n, -1));
+
+
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                if (matrix[i][j] == 1){
+                    // result += recur(i, j, matrix);
+                    result += memo(i, j, matrix, dp);
+                } 
             }
         }
 
-        return ans;
+        return result;
     }
 };
