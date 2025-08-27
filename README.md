@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## String
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -985,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Database
 |  |
 | ------- |
