@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1646-kth-missing-positive-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1813-maximum-erasure-value](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1813-maximum-erasure-value) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1646-kth-missing-positive-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
