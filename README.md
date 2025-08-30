@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
