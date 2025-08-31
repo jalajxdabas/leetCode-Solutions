@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0394-decode-string) |
 | [0433-minimum-genetic-mutation](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0735-asteroid-collision) |
