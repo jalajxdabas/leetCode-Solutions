@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1917-maximum-average-pass-ratio](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1917-maximum-average-pass-ratio](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
