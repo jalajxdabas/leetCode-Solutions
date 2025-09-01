@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0797-rabbits-in-forest) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
