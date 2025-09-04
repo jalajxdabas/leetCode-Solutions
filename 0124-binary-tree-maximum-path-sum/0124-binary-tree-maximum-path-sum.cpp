@@ -16,10 +16,11 @@ public:
 
         int leftSum = max(0, solve(root->left, maxi));
         int rightSum = max(0, solve(root->right, maxi));
-        int total = root->val + leftSum + rightSum;
+        int total = leftSum + rightSum + root->val;
+
         maxi = max(maxi, total);
 
-        int maxPath = root->val + max(leftSum, rightSum);
+        int maxPath = max(leftSum, rightSum) + root->val;
         return maxPath;
 
 
