@@ -12,13 +12,14 @@ public:
 
         
         int end = 0;
-        int start = -1;
+        int length = 0;
         for(int i=0; i<n; i++){
+            length++;
             char ch = s[i];
             end = max(end, last[ch]);
             if(i == end){
-                ans.push_back(end-start);
-                start = end;
+                ans.push_back(length);
+                length = 0;
             }
         }
 
