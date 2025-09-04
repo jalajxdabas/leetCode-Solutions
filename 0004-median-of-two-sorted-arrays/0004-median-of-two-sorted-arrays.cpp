@@ -1,12 +1,12 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        if(nums1.size() > nums2.size()){
-            return findMedianSortedArrays(nums2, nums1);
-        }
-
         int m = nums1.size();
         int n = nums2.size();
+
+        if(m > n){
+            return findMedianSortedArrays(nums2, nums1);
+        }
 
         int s = 0;
         int e = m;
@@ -15,11 +15,9 @@ public:
             int Px = s + (e-s)/2;
             int Py = (m+n+1)/2 - Px;
 
-            //left half
             int x1 = (Px == 0) ? INT_MIN : nums1[Px-1];
             int x2 = (Py == 0) ? INT_MIN : nums2[Py-1];
 
-            //right half
             int y1 = (Px == m) ? INT_MAX : nums1[Px];
             int y2 = (Py == n) ? INT_MAX : nums2[Py];
 
@@ -32,7 +30,10 @@ public:
                 if(x1 > y2) e = Px-1;
                 else s = Px+1;
             }
+
+
         }
         return -1;
+
     }
 };
