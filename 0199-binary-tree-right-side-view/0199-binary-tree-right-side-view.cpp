@@ -11,25 +11,22 @@
  */
 class Solution {
 public:
+    void solve(int level, int &reached, TreeNode* root, vector<int> &ans){
+        if(root == NULL) return;
+
+        if(level > reached){
+            ans.push_back(root->val);
+            reached = level;
+        }
+
+        solve(level+1, reached, root->right, ans);
+        solve(level+1, reached, root->left, ans);
+    }
     vector<int> rightSideView(TreeNode* root) {
         vector<int> ans;
         if(root == NULL) return ans;
-        
-        queue<TreeNode*> q;
-        q.push(root);
-
-        while(!q.empty()){
-            int n = q.size();
-
-            TreeNode* temp = NULL;
-            for(int i=0; i<n; i++){
-                temp = q.front();
-                q.pop();
-                if(temp->left != NULL) q.push(temp->left);
-                if(temp->right != NULL) q.push(temp->right);
-            }
-            ans.push_back(temp->val);
-        }
+        int reached = -1;
+        solve(0, reached, root, ans);
         return ans;
     }
 };
