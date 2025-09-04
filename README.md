@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0768-partition-labels](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0812-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0768-partition-labels) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0797-rabbits-in-forest) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0768-partition-labels](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0900-reordered-power-of-2) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0768-partition-labels) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1019-squares-of-a-sorted-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1129-longest-string-chain) |
