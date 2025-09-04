@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
