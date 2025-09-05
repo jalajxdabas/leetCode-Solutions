@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2470-removing-stars-from-a-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1731-even-odd-tree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Design
@@ -1058,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
@@ -1067,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0871-keys-and-rooms](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
@@ -1139,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Probability and Statistics
 |  |
 | ------- |
