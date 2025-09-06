@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0432-all-oone-data-structure](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [1072-next-greater-node-in-linked-list](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
@@ -1137,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0460-lfu-cache) |
 ## String Matching
 |  |
