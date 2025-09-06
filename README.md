@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [0690-employee-importance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0690-employee-importance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0797-rabbits-in-forest) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [0690-employee-importance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1054,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
+| [0690-employee-importance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0690-employee-importance) |
 | [0871-keys-and-rooms](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-binary-tree-cameras](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1008-binary-tree-cameras) |
@@ -1099,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
+| [0690-employee-importance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0690-employee-importance) |
 | [0871-keys-and-rooms](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0945-snakes-and-ladders) |
