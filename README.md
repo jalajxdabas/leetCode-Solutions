@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0926-find-and-replace-pattern](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0926-find-and-replace-pattern) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0812-rotate-string) |
+| [0926-find-and-replace-pattern](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0926-find-and-replace-pattern) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1129-longest-string-chain) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0926-find-and-replace-pattern](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0926-find-and-replace-pattern) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1043-grid-illumination](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1043-grid-illumination) |
