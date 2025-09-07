@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0812-rotate-string) |
 | [0926-find-and-replace-pattern](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0926-find-and-replace-pattern) |
+| [1023-time-based-key-value-store](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1129-longest-string-chain) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1023-time-based-key-value-store](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0926-find-and-replace-pattern) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1023-time-based-key-value-store](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1043-grid-illumination](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1043-grid-illumination) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -852,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1023-time-based-key-value-store](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Binary Search Tree
 |  |
