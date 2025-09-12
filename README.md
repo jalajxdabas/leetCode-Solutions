@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0416-partition-equal-subset-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1023-time-based-key-value-store](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0945-snakes-and-ladders](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -783,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0621-task-scheduler) |
