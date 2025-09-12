@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2047-find-a-peak-element-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2047-find-a-peak-element-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
