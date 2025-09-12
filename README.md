@@ -1272,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0610-triangle-judgement](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0610-triangle-judgement) |
+| [0627-swap-salary](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1155-product-sales-analysis-iii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1155-product-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
