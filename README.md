@@ -1275,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1155-product-sales-analysis-iii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1155-product-sales-analysis-iii) |
+| [1179-game-play-analysis-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
