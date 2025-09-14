@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1006-vowel-spellchecker](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0812-rotate-string) |
 | [0926-find-and-replace-pattern](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0926-find-and-replace-pattern) |
+| [1006-vowel-spellchecker](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0926-find-and-replace-pattern) |
+| [1006-vowel-spellchecker](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
