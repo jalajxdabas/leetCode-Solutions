@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2470-removing-stars-from-a-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -1249,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0812-rotate-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
 | ------- |
