@@ -1,28 +1,28 @@
 class Solution {
 public:
-    int trap(vector<int>& arr) {
-        int n = arr.size();
-        int left = 0;
-        int right = n-1;
+    int trap(vector<int>& height) {
+         int n = height.size();
+        vector<int> leftMax(n);
+        vector<int> rightMax(n);
 
-        int leftMax = 0;
-        int rightMax = 0;
-        int total = 0;
+        leftMax[0] = height[0];
 
-        while(left < right){
-            if(arr[left] <= arr[right]){
-                if(leftMax > arr[left]) total += (leftMax-arr[left]);
-                else leftMax = arr[left];
-
-                left++;
-            }
-            else{
-                if(rightMax > arr[right]) total += (rightMax-arr[right]);
-                else rightMax = arr[right];
-
-                right--;
-            }
+        for(int i=1; i<n; i++){
+            leftMax[i] = max(leftMax[i-1], height[i]);
         }
-        return total;
+
+        rightMax[n-1] = height[n-1];
+
+        for(int i=n-2; i>=0; i--){
+            rightMax[i] = max(height[i], rightMax[i+1]);
+        }
+
+        int ans = 0;
+
+        for(int i=0; i<n; i++){
+            ans += abs(height[i] - min(leftMax[i], rightMax[i]));
+
+        }
+        return ans;
     }
 };
