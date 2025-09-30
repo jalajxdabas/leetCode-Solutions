@@ -13,7 +13,7 @@ public:
         if(t[i] != -1) return t[i];
 
 
-        for(int j = 1; j<= n; j++){
+        for(int j = 1; j<= n-i; j++){
             string temp = s.substr(i, j);
 
             if(st.find(temp) != st.end() && solve(i+j, s)) return t[i] = true;
