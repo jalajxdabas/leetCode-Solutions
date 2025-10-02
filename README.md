@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0729-my-calendar-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0729-my-calendar-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1023-time-based-key-value-store](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0460-lfu-cache) |
+| [0729-my-calendar-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [2023-design-movie-rental-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2023-design-movie-rental-system) |
@@ -1062,10 +1065,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [2023-design-movie-rental-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
