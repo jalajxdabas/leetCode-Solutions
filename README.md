@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0794-swim-in-rising-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0876-hand-of-straights](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0876-hand-of-straights) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0794-swim-in-rising-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1023-time-based-key-value-store](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1397-search-suggestions-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1917-maximum-average-pass-ratio](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -1223,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0690-employee-importance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0690-employee-importance) |
+| [0794-swim-in-rising-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-binary-tree-cameras](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1008-binary-tree-cameras) |
@@ -1271,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0690-employee-importance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0690-employee-importance) |
+| [0794-swim-in-rising-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0945-snakes-and-ladders) |
@@ -1289,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0794-swim-in-rising-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Randomized
 |  |
