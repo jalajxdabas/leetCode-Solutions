@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0368-largest-divisible-subset) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0289-game-of-life) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1216,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1250,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0871-keys-and-rooms](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -1268,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1333,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Probability and Statistics
 |  |
@@ -1343,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Database
 |  |
