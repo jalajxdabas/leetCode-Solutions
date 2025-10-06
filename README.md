@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0463-island-perimeter](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0506-relative-ranks) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0463-island-perimeter](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -1224,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0437-path-sum-iii) |
+| [0463-island-perimeter](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -1278,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0463-island-perimeter](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
