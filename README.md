@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1285-balance-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1448-maximum-69-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1397-search-suggestions-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1612-avoid-flood-in-the-city](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1813-maximum-erasure-value) |
@@ -873,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1397-search-suggestions-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1397-search-suggestions-system) |
+| [1612-avoid-flood-in-the-city](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2164-two-best-non-overlapping-events](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
