@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0368-largest-divisible-subset) |
