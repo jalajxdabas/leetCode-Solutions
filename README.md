@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0322-coin-change) |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0460-lfu-cache) |
@@ -1156,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
