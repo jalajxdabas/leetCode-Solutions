@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2998-count-symmetric-integers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
