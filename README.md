@@ -993,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1292,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0690-employee-importance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0690-employee-importance) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0794-swim-in-rising-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1346,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0690-employee-importance](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0787-sliding-puzzle](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0871-keys-and-rooms) |
