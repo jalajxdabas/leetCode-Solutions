@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -1229,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
