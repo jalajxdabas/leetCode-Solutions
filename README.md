@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2169-simple-bank-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2169-simple-bank-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1045,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [2023-design-movie-rental-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3797-design-spreadsheet) |
@@ -1241,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
