@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2689-rearranging-fruits) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2625-increment-submatrices-by-one](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1225,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
