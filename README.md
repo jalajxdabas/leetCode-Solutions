@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1917-maximum-average-pass-ratio](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2023-design-movie-rental-system](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2047-find-a-peak-element-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1876-map-of-highest-peak](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1380,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1437,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-even-odd-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1731-even-odd-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1447,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/jalajxdabas/leetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Randomized
 |  |
 | ------- |
